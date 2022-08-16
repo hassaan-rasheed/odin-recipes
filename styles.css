@@ -1,0 +1,62 @@
+   
+body{
+   background-color:rgb(245, 235, 235);
+}
+
+h1{
+    color:rgb(13, 12, 12);
+}
+
+img{
+    height: 200px;
+    width: 200px;
+}
+
+h1,h2{
+    text-align: center;
+    border: 3px black;
+    text-transform: uppercase;
+}
+
+p1{
+    color:black;
+    text-align-last: center;
+    font-style: italic;
+    align-self: stretch;
+}
+
+p2{
+    border-style: double;
+    font-style: italic;
+}
+
+p3{
+    border-style: double;
+    font-style:italic;
+}
+
+p{
+   text-align: center;
+   text-decoration: underline;
+   font-style: italic;
+}
+
+img{
+    animation: infinite;
+    align-self: center;
+}
+
+/* div{
+    padding: 10px;
+    border: 30px solid black;
+    margin: 60px;
+} */
+
+.links{
+    padding: 10px;
+    border: 30px solid black;
+    margin: 60px;
+}
+
+
+
